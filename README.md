@@ -15,20 +15,20 @@ pip install tkinter pygame
 ## 🚀 How to Run
 **Clone this repository**
 
-git clone https://github.com/yourusername/musicsystem.git
-cd musicsystem
+- git clone https://github.com/yourusername/musicsystem.git
+- cd musicsystem
 
 **Run the application**
 
-python music_system.py
+- python music_system.py
 
 ## 🎼 Usage.
-**▶️ Hit Play & Enjoy** – Start playback with a single click.
-**⏸️ Pause & Resume** – Pause your track and continue where you left off.
-**⏹️ Stop Anytime** – Halt playback instantly.
+- **▶️ Hit Play & Enjoy** – Start playback with a single click.
+- **⏸️ Pause & Resume** – Pause your track and continue where you left off.
+- **⏹️ Stop Anytime** – Halt playback instantly.
 
 
 ## 🚀 Future Enhancements
-**🎧 Smart Playlist Feature** Automatically create playlists based on listening habits.
-**🎨 Visualizer Effects** Enhance your music experience with stunning visual effects.
-**🎭 Custom Themes** Choose from a variety of skins to personalize your player.
+- **🎧 Smart Playlist Feature** Automatically create playlists based on listening habits.
+- **🎨 Visualizer Effects** Enhance your music experience with stunning visual effects.
+- **🎭 Custom Themes** Choose from a variety of skins to personalize your player.
