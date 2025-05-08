@@ -14,13 +14,15 @@ pip install tkinter pygame
 
 ## 🚀 How to Run
 **Clone this repository**
-
+```bash
 - git clone https://github.com/yourusername/musicsystem.git
 - cd musicsystem
+```
 
 **Run the application**
-
+```bash
 - python music_system.py
+```
 
 ## 🎼 Usage.
 - **▶️ Hit Play & Enjoy** – Start playback with a single click.
